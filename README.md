@@ -9,6 +9,6 @@ Required packages:
  - body-parser npm package: npm install body-parser.
  - MySQL npm package: npm install mysql.
 
-Heroku launch: https://git.heroku.com/burger8000.git
+Heroku launch: https://burger8000.herokuapp.com/
 
 Enjoy!
